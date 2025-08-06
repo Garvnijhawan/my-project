@@ -1,0 +1,33 @@
+body{
+    text-align: center; 
+    background-image: url('images\ DAA.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
+form {
+    background-color: whitesmoke; 
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+p, label, input, button {
+    color:brown;
+}
+
+button {
+    background-color:rebeccapurple;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: palegreen;
+}
+
